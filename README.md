@@ -1,1 +1,1 @@
-# Aula-14-03-2026
+A atividade aborda o processo de construção e manutenção de representações de usuários para a personalização e adaptação de sistemas computacionais.
